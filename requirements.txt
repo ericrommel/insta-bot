@@ -1,0 +1,16 @@
+api_display_purposes==0.0.3
+beautifulsoup4==4.11.1
+clarifai==2.6.2
+emoji==1.7.0
+instabot==0.117.0
+MeaningCloud_python==2.0.0
+plyer==2.0.0
+python-dotenv==0.21.0
+python_telegram_bot==13.14
+pyvirtualdisplay==3.0
+regex==2022.9.11
+requests==2.28.1
+selenium==4.4.3
+setuptools==65.3.0
+telegram==0.0.1
+webdriverdownloader==1.1.0.3
