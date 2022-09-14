@@ -1,6 +1,6 @@
 # insta-bot
 
-### Set your environment
+### Setting up your environment
  - Create a virtual environment
 ```commandline
 $ python -m venv {ABSOLUT_PATH_TO_YOUR_VENVS_FOLDER}\insta-bot
